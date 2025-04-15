@@ -31,7 +31,7 @@ export class ExperienceComponent implements OnInit {
         company: "JUSPAY",
         color: "#3781c2",
         companylogo: "https://images.saasworthy.com/tr:w-160,h-0,c-at_max,e-sharpen-1/juspay_9284_logo_1608797419_2siny.png",
-        date: "Nov, 2022 – Present",
+        date: "Nov, 2024 – Present",
         desc: "Developed and optimized Hyperswitch, Juspay's payment orchestration platform, enhancing transaction processing speed"
       },
     ]
