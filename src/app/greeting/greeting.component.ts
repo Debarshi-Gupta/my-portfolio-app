@@ -46,7 +46,7 @@ export class GreetingComponent implements OnInit {
     username: "Debarshi Gupta",
     title: "Hi, I'm Debarshi",
     subTitle: "Experienced Full Stack Web Developer 💻 specializing in Java, Spring Boot and Angular, reputed for delivering scalable and user-centric applications with a meticulous attention to detail and an unwavering commitment to excellence.",
-    resumeLink: "https://drive.google.com/file/d/1Ffl6huu72jJilm9EH8Vp4NaOkZ0zwtzO/view?usp=drive_link"
+    resumeLink: "https://drive.google.com/file/d/1uBXC7t1AzjVQgljdugEPkonWU3AulgTY/view?usp=sharing"
   }
   constructor() { }
 

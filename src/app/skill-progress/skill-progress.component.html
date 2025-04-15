@@ -1,11 +1,13 @@
 <div id="skill-progress" class="skills-container" *ngIf="techStack.viewSkillBars">
   <div class="skills-bar">
     <h1 class="skills-heading" style="color: #A9A9A9">P R O F I C I E N C Y</h1>
+    <br>
     <div class="skill" *ngFor="let exp of techStack.experience">
-      <p>{{exp.Stack}}</p>
+      {{exp.Stack}}
       <div class="meter">
         <span [style]=progressStyle(exp.progressPercentage)></span>
       </div>
+      <p></p>
     </div>
   </div>
 

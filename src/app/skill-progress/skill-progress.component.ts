@@ -12,7 +12,7 @@ export class SkillProgressComponent implements OnInit {
     experience: [
       {
         Stack: "Backend Development",
-        progressPercentage: "90%"
+        progressPercentage: "95%"
       },
       {
         Stack: "Frontend Development",
@@ -20,7 +20,7 @@ export class SkillProgressComponent implements OnInit {
       },
       {
         Stack: "Database Management",
-        progressPercentage: "75%"
+        progressPercentage: "85%"
       },
       {
         Stack: "DevOps",
@@ -28,7 +28,7 @@ export class SkillProgressComponent implements OnInit {
       },
       {
         Stack: "Cloud Computing",
-        progressPercentage: "60%"
+        progressPercentage: "80%"
       }
     ]
   };
